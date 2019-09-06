@@ -2,7 +2,7 @@ Game of Thrones
 Invisible man
 Harry Potter
 The name of the rose
-Thanos:Titan Consumed
+Thanos Titan Consumed
 Harry Potter and the Goblet of Fire
 Pirates of the Caribbean
 To Kill a Mockingbird
@@ -17,9 +17,9 @@ The Girl with the Dragon Tattoo
 The Hunger Games
 Frankenstein
 The Da Vinci Code
-Angels & Demons
+Angels and Demons
 The Alchemist
-Bridget Jones's Diary 
+Bridget Jones Diary 
 Cloud Atlas
 The Great Gatsby
 Dune
